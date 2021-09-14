@@ -1,0 +1,11 @@
+# Pominięcie modułów node.js
+node_modules
+
+# Skompilowane pliki css na devie
+src/css
+
+# zdjęcia wszelakie
+*.png
+*.jpg
+*.jpeg
+*.gif
